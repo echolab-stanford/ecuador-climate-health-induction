@@ -1,0 +1,24 @@
+icd_code,icd_rate,outcome
+total,total_rate,Total hospitalizations
+asthma,asthma_rate,Asthma
+copd_icd10,copd_rate,COPD
+flu_icd10,flu_rate,Influenza and pneumonia
+ab_icd10,ab_rate,Infectious and parasitic diseases
+cancer_icd10,cancer_rate,Neoplasms
+blood_icd10,blood_rate,Disease of the blood
+e_icd10,e_rate,"Endocrine, nutritional, and metabolic diseases"
+f_icd10,f_rate,"Mental, Behavioral and Neurodevelopmental disorders"
+g_icd10,g_rate,Diseases of the nervous system
+eye_icd10,eye_rate,Diseases of the eye and adnexa
+ear_icd10,ear_rate,Diseases of the ear and mastoid process
+circulatory_icd10,circulatory_rate,Circulatory system
+j_icd10,j_rate,Respiratory system
+k_icd10,k_rate,Diseases of the digestive system
+l_icd10,l_rate,Diseases of skin and subcutaneous tissue
+m_icd10,m_rate,Diseases of the musculoskeletal system and connective tissue
+n_icd10,n_rate,Diseases of the genitourinary system
+o_icd10,o_rate,"Pregnancy, childbirth and the puerperium"
+p_icd10,p_rate,Certain conditions originating in the perinatal period
+q_icd10,q_rate,"Congenital malformations, deformations and chromosomal abnormalities"
+r_icd10,r_rate,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+st_icd10,st_rate,"Injury, poisoning and certain other consequences of external causes"
